@@ -89,3 +89,16 @@ erDiagram
         int harga
         int stok
     }
+🛠️ Prasyarat SistemPastikan environment lokal Anda memenuhi spesifikasi berikut:PHP ^8.1Composer v2.xNode.js v16.x atau lebih baruMySQL v8.0 / MariaDBWeb Server (Apache/Nginx/Laravel Valet/Artisan Serve)⚙️ Panduan InstalasiIkuti langkah-langkah di bawah ini untuk menjalankan aplikasi di localhost:Clone RepositoriBashgit clone [https://github.com/andra280502/Myhink-Travel.git](https://github.com/andra280502/Myhink-Travel.git)
+cd Myhink-Travel
+Install Dependensi PHPBashcomposer install
+Install Dependensi Frontend & Build AssetsBashnpm install
+npm run build
+Setup EnvironmentBashcp .env.example .env
+Konfigurasi DatabaseBuka file .env dan sesuaikan kredensial berikut:Code snippetDB_DATABASE=myhink_travel
+DB_USERNAME=root
+DB_PASSWORD=
+Generate Key & Run MigrationsBashphp artisan key:generate
+php artisan migrate
+Jalankan Local Development ServerBashphp artisan serve
+🌐 Buka browser dan akses: http://localhost:8000📸 Galeri Antarmuka(Bagian ini dapat diisi dengan screenshot aplikasi setelah UI selesai dikembangkan)Dashboard UtamaHalaman Transaksi POSKatalog Paket WisataManajemen Armada👨‍💻 Dikembangkan OlehAndra Syailendra Perdana (NIM: 2318901)Mahasiswa Teknik Informatika
