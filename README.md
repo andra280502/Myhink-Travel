@@ -1,15 +1,3 @@
-Kalau dosen penguji atau aslab kamu tipenya yang sangat detail dan suka melihat dokumentasi layaknya proyek berskala *Enterprise* (perusahaan besar), maka draf sebelumnya memang bisa kita ekspansi lagi!
-
-Untuk membuatnya **"Sangat Lengkap"**, saya telah menambahkan beberapa bagian krusial yang selalu dicari oleh dosen *software engineering*:
-
-1. **Hak Akses Pengguna (Role & Actor):** Menjelaskan siapa saja yang bisa *login* dan apa batasannya (Admin vs Kasir).
-2. **Detail Tech Stack:** Rincian teknologi *Frontend* dan *Backend* yang dipakai.
-3. **Struktur MVC (Model-View-Controller):** Penjelasan singkat bahwa kamu menerapkan pola arsitektur standar.
-4. **Database Seeding:** Tambahan perintah instalasi untuk memasukkan "data *dummy*" agar saat dosen mencoba aplikasi, halamannya tidak kosong.
-
-**⚠️ CARA COPY:** Klik tombol **"Copy code"** di pojok kanan atas kotak di bawah ini. Pastikan Anda **TIDAK** ikut menempelkan tanda ````markdown` saat menaruhnya di GitHub.
-
-```markdown
 <div align="center">
   
   <img src="[https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Myhink%20Travel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Sistem%20Informasi%20Operasional%20Terpadu&descAlignY=55&descAlign=62](https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Myhink%20Travel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Sistem%20Informasi%20Operasional%20Terpadu&descAlignY=55&descAlign=62)" width="100%" />
