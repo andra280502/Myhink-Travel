@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Myhink%20Travel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Sistem%20Informasi%20Operasional%20Terpadu&descAlignY=55&descAlign=62](https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Myhink%20Travel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Sistem%20Informasi%20Operasional%20Terpadu&descAlignY=55&descAlign=62)" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Myhink%20Travel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Sistem%20Informasi%20Operasional%20Terpadu&descAlignY=55&descAlign=62" width="100%" />
 
   <br><br>
 
